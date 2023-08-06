@@ -19,4 +19,4 @@ Natural language processing (NLP) is a crucial part of artificial intelligence (
 
 [9. Pre-training](https://verymuchmorethanastronomically.tistory.com/43)
 
---
+[10. Natural Language Generation](https://verymuchmorethanastronomically.tistory.com/48)
